@@ -1,0 +1,39 @@
+footer{
+    background-color: #001931;
+    margin-top:120px;
+}
+.footer{
+    width: 85%;
+    max-width: 1380px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 120px 107px 0 0;
+    align-items: center;
+}
+footer .p2{
+    padding:80px 0 20px 0 ;
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    
+    text-align: center;
+}
+
+footer .p1{
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: 10px;
+    
+    text-align: center;
+
+}
+.icons{
+    color: white;
+}
+
+
+

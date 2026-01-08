@@ -1,0 +1,115 @@
+#how-work{
+    width: 85%;
+    max-width: 1380px;
+   
+    margin: 0 auto;
+    text-align: center;
+    padding: 50px 0 0px 0px;
+
+}
+.content h1{
+    font-size: 48px;
+    font-weight: 400;
+    color: #001931;
+}
+
+.content p{
+    font-size: 16px;
+    font-weight: 400;
+    color: #627382;
+    line-height: 20px;
+    padding-top: 16px;
+}
+
+.card{
+    display: flex;
+    justify-content:space-between;
+    
+    margin-top: 44px;
+    gap: 24px;
+    
+}
+
+.card .card1{
+    padding: 60px;
+    
+    box-shadow: 0 0 15px #0000000F;
+    
+
+}
+.card1 h2{
+    padding-top: 16px;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 100%;
+}
+
+.card1 p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    padding-top: 16px;
+}
+
+.card .card2{
+    padding: 60px;
+    
+    box-shadow: 0 0 15px #0000000F;
+    
+
+}
+.card2 h2{
+    padding-top: 16px;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 100%;
+}
+
+.card2 p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    padding-top: 16px;
+}
+
+.card .card3{
+    padding: 60px;
+    
+    box-shadow: 0 0 15px #0000000F;
+    
+
+}
+.card3 h2{
+    padding-top: 16px;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 100%;
+}
+
+.card4 p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    padding-top: 16px;
+}
+
+.card .card4{
+    padding: 60px;
+    
+    box-shadow: 0 0 15px #0000000F;
+    
+
+}
+.card4 h2{
+    padding-top: 16px;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 100%;
+}
+
+.card4 p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    padding-top: 16px;
+}

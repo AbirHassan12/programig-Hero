@@ -1,0 +1,32 @@
+#how-work-3{
+    width: 85%;
+    max-width: 1380px;
+    margin: 0 auto;
+}
+.content3{
+   
+    background-color: #F7F6F2;
+    text-align: center;
+    margin-top: 120px;
+    padding: 80px 40px 80px 40px;
+
+}
+.content3 h1{
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 100%;
+    margin-bottom: 16px;
+}
+
+.content3 .p1{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: 24px;
+}
+.content3 .p2{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-top: 24px;
+}
